@@ -1,16 +1,16 @@
 # Проект 3. EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление  
-[1. Описание проекта]()  
-[2. Какой кейс решаем?]()  
-[3. Краткая информация о данных]()  
-[4. Этапы работы над проектом]()  
-[5. Результат]()    
-[6. Выводы]() 
+[1. Описание проекта](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#результаты)    
+[6. Выводы](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#выводы) 
 
 ### Описание проекта 
 По данным сайта Booking на основе имеющихся в датасете данных нужно подготовить данные для построения модели, которая предсказывает рейтинг отеля. Используя навыки разведывательного анализа попробовать улучшить модель. Обученная модель должна помочь выявить нечестные отели, которые накручивают себе рейтинг.
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -45,7 +45,7 @@
 https://drive.google.com/file/d/1-HBn3mfcNx7Jv-NWV9YMpFzuHjh_Vfll/view?usp=sharing
 
 Данные сайта Booking, в которых содержатся сведения о 515 000 отзывов на отели Европы.
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#оглавление)
 
 
 ### Этапы работы над проектом  
@@ -58,20 +58,20 @@ https://drive.google.com/file/d/1-HBn3mfcNx7Jv-NWV9YMpFzuHjh_Vfll/view?usp=shari
 6. Принятие участия в соревновании на Kaggle
 7. Улучшение модели
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#оглавление)
 
 
 ### Результаты:  
 Построенная модель, которая предсказывает рейтинг отеля
 Участие в соревновании на Kaggle
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#оглавление)
 
 
 ### Выводы:  
 В ходе данного проекта мы построилии свою первую модель, закрепили навыки EDA, приняли участие в в соревновании на Kaggle
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/AnastasiyaKisslaya/Project-3/blob/master/README.md#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
