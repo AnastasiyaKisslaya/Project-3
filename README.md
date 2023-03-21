@@ -42,6 +42,7 @@
 
 
 ### Краткая информация о данных
+https://drive.google.com/file/d/1-HBn3mfcNx7Jv-NWV9YMpFzuHjh_Vfll/view?usp=sharing
 
 Данные сайта Booking, в которых содержатся сведения о 515 000 отзывов на отели Европы.
 :arrow_up:[к оглавлению]()
